@@ -1,0 +1,11 @@
+venv/
+.env
+*.mp4
+*.mov
+*.avi
+*.png
+*.jpg
+*.pyc
+__pycache__/
+.vscode/
+.idea/
